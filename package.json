@@ -71,7 +71,7 @@
     "yarn": "^1.22.18"
   },
   "peerDependencies": {
-    "react": "^16.9.0"
+    "react": "^17.0.2"
   },
   "jest": {
     "setupFiles": [
