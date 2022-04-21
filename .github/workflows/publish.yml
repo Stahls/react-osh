@@ -1,9 +1,9 @@
 name: Publish
 
-on:
-  create:
-    ref_type: tag
-    master_branch: master
+# on:
+#   create:
+#     ref_type: tag
+#     master_branch: master
 
 jobs:
   main:
